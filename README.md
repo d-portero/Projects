@@ -25,7 +25,6 @@ Bioprinter
 ![](assets/README-7df9f339.png)
 
 Syringe Pump
-![](assets/README-7f68a14e.png)
 ![](assets/README-1bca026d.jpg)
 https://github.com/FOSH-following-demand/Syringe_Pump
 
