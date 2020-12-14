@@ -85,7 +85,11 @@ https://github.com/FOSH-following-demand/Syringe_Pump
 ## R. Palustrus Scale Up
 
 ## Current 3D Printer (Tevo Tornado)
+![](assets/README-18da0f61.JPG)
 
 ## (Active Project) Syringe pump V2 (for bioprinter)
+![](assets/README-dea94f38.JPG)
+![](assets/README-f6f4ed5b.JPG)
 
-## (Active Project) Building and learning how to use my Workbee CNC
+## (Active Project) Building and learning how to use my Workbee 1010 CNC
+![](assets/README-1aacddbb.JPG)
