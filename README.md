@@ -1,8 +1,8 @@
-## Projects
-# (Page Under Development)
+# Projects
+## (Page Under Development)
 Some of the projects I have worked on, and the ones I am currently tackling.
 
-# Mason Jar  Bioreactor V1
+## Mason Jar  Bioreactor V1
 
 ![](assets/README-e31a08d0.jpg)
 
@@ -12,7 +12,7 @@ First functional mason jar reactor
 
 Closeup of vessel with E. Coli expressing RFP
 
-# Mason Jar Bioreactor V2
+## Mason Jar Bioreactor V2
 
 ![](assets/README-0bb9f751.jpg)
 
@@ -31,7 +31,7 @@ Same reactors under blacklight
 Extracted GFP from reactors that has been polymerized under blacklight. Shaped using a 3D printed dogbone mold.
 
 
-# Raspberry Pi Chemostat
+## Raspberry Pi Chemostat
 
 ![](assets/README-d1a1bf47.JPG)
 
@@ -61,7 +61,7 @@ Assembled vessel
 
 Progression of the reactor vessels. (Left to right) V1, V2 pint, V2 quart, and the chemostat vessel
 
-# Bioprinter
+## Bioprinter
 
 ![](assets/README-0fae1e54.jpg)
 
@@ -73,7 +73,7 @@ Syringe pump was built following this paper. https://www.sciencedirect.com/scien
 
 Glass dish adhered to bed, filled with a gelatin slurry for support of the printed item.
 
-# Stand Alone Syringe Pump
+## Stand Alone Syringe Pump
 
 ![](assets/README-1bca026d.jpg)
 
@@ -82,11 +82,11 @@ Stand alone syringe pump
 Link to github with build details.
 https://github.com/FOSH-following-demand/Syringe_Pump
 
-# Syringe pump V2 (for bioprinter)
+## Syringe pump V2 (for bioprinter)
 
 
-# R. Palustrus Scale Up
+## R. Palustrus Scale Up
 
-# Current 3D Printer (Tevo Tornado)
+## Current 3D Printer (Tevo Tornado)
 
-# (Active Project) Building and learning how to use my Workbee CNC
+## (Active Project) Building and learning how to use my Workbee CNC
