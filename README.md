@@ -82,11 +82,10 @@ Stand alone syringe pump
 Link to github with build details.
 https://github.com/FOSH-following-demand/Syringe_Pump
 
-## Syringe pump V2 (for bioprinter)
-
-
 ## R. Palustrus Scale Up
 
 ## Current 3D Printer (Tevo Tornado)
+
+## (Active Project) Syringe pump V2 (for bioprinter)
 
 ## (Active Project) Building and learning how to use my Workbee CNC
