@@ -27,7 +27,7 @@ Same reactors under blacklight
 
 ![](assets/README-a17d6e33.jpg)
 
-Extracted GFP from reactors that has been polymerized
+Extracted GFP from reactors that has been polymerized under blacklight.
 
 
 # Raspberry Pi Chemostat
