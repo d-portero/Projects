@@ -77,7 +77,7 @@ Glass dish adhered to bed, filled with a gelatin slurry for support of the print
 
 ![](assets/README-1bca026d.jpg)
 
-Stand alone syringe pump
+Stand alone 3D Printed syringe pump
 
 Link to github with build details.
 https://github.com/FOSH-following-demand/Syringe_Pump
