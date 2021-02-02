@@ -18,7 +18,7 @@ Closeup of vessel with E. Coli expressing RFP
 ![](assets/README-0bb9f751.jpg)
 
 Second reactor version utilizing an Arduino Uno for temperature control
- # Goals were:
+ #### Goals:
  1. Sterilizable by autoclave
  2. Easily dissasembled for educational use
  3. Made from easily obtained parts
@@ -39,7 +39,7 @@ Extracted GFP from reactors that has been polymerized under blacklight. Shaped u
 
 ## Raspberry Pi Chemostat
 
-# Goals
+#### Goals:
 1. Maintain cells in their optimal growth phase by exchanging media
 2. Measure Optical Density
 3. Measure pH (optional control)
@@ -104,8 +104,8 @@ https://github.com/FOSH-following-demand/Syringe_Pump
 ## (Active Project) Syringe pump V2 (for bioprinter)
 ![](assets/README-dea94f38.JPG)
 ![](assets/README-f6f4ed5b.JPG)
-# Goals
-1. Reduce backlash from previously built pump
+##### Goals:
+;1. Reduce backlash from previously built pump
 2. Allow for alternate syringe sizes
 3. Belted drive reduction to reduce noise from 3D printed gears
 
