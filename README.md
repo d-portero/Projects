@@ -105,7 +105,7 @@ https://github.com/FOSH-following-demand/Syringe_Pump
 ![](assets/README-dea94f38.JPG)
 ![](assets/README-f6f4ed5b.JPG)
 ##### Goals:
-;1. Reduce backlash from previously built pump
+1. Reduce backlash from previously built pump
 2. Allow for alternate syringe sizes
 3. Belted drive reduction to reduce noise from 3D printed gears
 
