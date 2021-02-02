@@ -3,6 +3,7 @@
 Some of the projects I have worked on, and the ones I am currently tackling.
 
 ## Mason Jar  Bioreactor V1
+Created as part of the final project for my Instrumentation class
 
 ![](assets/README-e31a08d0.jpg)
 
@@ -17,6 +18,11 @@ Closeup of vessel with E. Coli expressing RFP
 ![](assets/README-0bb9f751.jpg)
 
 Second reactor version utilizing an Arduino Uno
+ #Goals were:
+ 1. Sterilizable by autoclave
+ 2. Easily dissasembled for educational use
+ 3. Made from easily obtained parts
+ 4. Used to teach about microbiology, biochemical engineering, and electronics
 
 ![](assets/README-0b7a33d8.jpg)
 
